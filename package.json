@@ -1,0 +1,19 @@
+{
+  "name": "ab-flowelement",
+  "version": "0.0.1",
+  "description": "Resize anything automatically based on window size",
+  "main": "index.js",
+  "keywords": [
+    "flowelement"
+  ],
+  "license": "MIT",
+  "author": "Antonio Brandao <antoniobrandaodesign@gmail.com> (http://www.antoniobrandao.com/)",
+  "homepage": "https://github.com/antoniobrandao/ab-flowelement",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antoniobrandao/ab-flowelement"
+  },
+  "bugs": {
+    "url": "https://github.com/antoniobrandao/ab-flowelement/issues"
+  }
+}
